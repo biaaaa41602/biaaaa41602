@@ -4,7 +4,7 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Tecnologia • Desenvolvimento de Software • Soluções Digitais
+Tecnologia • Desenvolvimento de Software • Soluções Digitais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/beatriz-st%C3%AAnico-ba3aa0321/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-Acessar-7026A5?style=for-the-badge&logo=githubpages&logoColor=white)](https://biaaaa41602.github.io/Portfolio/)
@@ -23,7 +23,7 @@ Atualmente, estou aprofundando meus conhecimentos em Java, Python, SQL e Program
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 **Linguagens de programação e desenvolvimento**
 
@@ -46,7 +46,7 @@ Atualmente, estou aprofundando meus conhecimentos em Java, Python, SQL e Program
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### 💜 Portfolio
 
@@ -68,7 +68,7 @@ Sistema desktop de gerenciamento de consultas médicas, desenvolvido com **VB.NE
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Java e Programação Orientada a Objetos.
 - Desenvolvimento Backend.
@@ -79,7 +79,7 @@ Sistema desktop de gerenciamento de consultas médicas, desenvolvido com **VB.NE
 
 <div align="center">
 
-### 📫 Vamos nos conectar?
+### Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/Meu_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-st%C3%AAnico-ba3aa0321/)
 [![Portfolio](https://img.shields.io/badge/Meu_Portfólio-7026A5?style=for-the-badge&logo=githubpages&logoColor=white)](https://biaaaa41602.github.io/Portfolio/)
