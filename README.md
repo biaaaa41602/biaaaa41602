@@ -84,6 +84,22 @@ Sistema desktop de gerenciamento de consultas médicas, desenvolvido com **VB.NE
 [![LinkedIn](https://img.shields.io/badge/Meu_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-st%C3%AAnico-ba3aa0321/)
 [![Portfolio](https://img.shields.io/badge/Meu_Portfólio-7026A5?style=for-the-badge&logo=githubpages&logoColor=white)](https://biaaaa41602.github.io/Portfolio/)
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biaaaa41602&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biaaaa41602&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 ⭐ Obrigada por visitar meu perfil!
 
 </div>
