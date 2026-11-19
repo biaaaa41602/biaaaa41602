@@ -37,7 +37,7 @@ Atualmente, estou aprofundando meus conhecimentos em Java, Python, SQL e Program
 
 **Script e automação**
 
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 **Ferramentas**
