@@ -34,6 +34,9 @@ Atualmente, estou aprofundando meus conhecimentos em Java, Python, SQL e Program
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Script e automação**
+
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white)
 
